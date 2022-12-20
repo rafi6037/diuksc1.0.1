@@ -85,15 +85,18 @@ body{
       height: auto;
     }
     .content{
-      margin-top: 5%;
+      margin-top: 1%;
       margin-left: 5%;
     }
     .column img{
-      height: 300px;
-      width: 400px;
+      height: 200px;
+      width: 300px;
       margin-top: 5px;
   }
+  .column h2{
+    margin-top: 5px;
+  }
   .topnav{
-    padding-left: 12%;
+    padding-left:1%;
   }
 }
